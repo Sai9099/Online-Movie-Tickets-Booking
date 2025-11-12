@@ -22,15 +22,10 @@ The Online Movie Tickets Booking project is a web-based application that allows 
 
 Frontend: HTML, CSS, JavaScript (or React/Angular/Vue)
 
-Backend: Node.js / Java / Python (Django/Flask) / PHP (depending on your implementation)
-
-Database: MySQL / MongoDB / PostgreSQL
-
+Backend: Node.js / Java / Python (Django/Flask) 
+Database: MongoDB 
 Payment Integration: PayPal / Razorpay / Stripe (or mock payment system)
 
-📸 Screenshots (Optional)
-
-(Add screenshots or demo GIFs of the UI here)
 
 🎯 Future Enhancements
 
