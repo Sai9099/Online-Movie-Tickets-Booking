@@ -36,3 +36,9 @@ Payment Integration: PayPal / Razorpay / Stripe (or mock payment system)
 🔔 Email/SMS booking confirmations & reminders
 
 ⭐ Ratings & Reviews for movies
+
+<img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/33bfad55-2f48-4ee1-90c9-2ccb162f6c0f" />
+
+<img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/d113a2a9-ca93-4862-ba23-f27a00a58dad" />
+
+<img width="1910" height="912" alt="image" src="https://github.com/user-attachments/assets/2f597f8e-3add-495b-8570-f02a2e2e8202" />
